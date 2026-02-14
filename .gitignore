@@ -4,7 +4,9 @@ README.md
 # Игнорировать файл side.txt в директории build.
 # build/side.txt
 text.txt
+
 text2.txt
+
 new.py
 # Игнорировать все файлы с расширением .doc
-*.doc
+*.txt
